@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <group Text="Администрирование">
+    <item Text="Журнал событий" />
+    <item Text="Добавление пользователей" />
+    <item Text="Редактирование прав пользователей" />
+  </group>
+
+
+</menu>
